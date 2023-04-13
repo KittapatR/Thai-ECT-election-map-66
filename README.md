@@ -1,8 +1,12 @@
-# Thai-ECT-election-map-66
+# แผนที่เขตการเลือกตั้งทั่วไป พ.ศ. 2566
 
 *กฤตพัฒน์ รัตนภูผา*
 
 สถาบันส่งเสริมการวิเคราะห์และบริหารข้อมูลขนาดใหญ่ภาครัฐ (GBDi)
+
+วันมหาสงกรานต์ พ.ศ. 2566
+
+---
 
 แผนที่เขตการเลือกตั้งนี้เป็นแผนที่ที่จัดทำเพื่อนำไปใช้เกี่ยวกับการรายงานผลการเลือกตั้งแบบไม่เป็นทางการสมาชิกสภาผู้แทนราษฎรเป็นการทั่วไปในวันที่ 14 พฤษภาคม 2566 โดยใน repository นี้จะประกอบด้วยไฟล์ดังต่อไปนี้
 
@@ -25,7 +29,7 @@
 
 ## หลักการเบื้องหลังในการสร้างแผนที่เขตเลือกตั้งตามประกาศ กกต.
 
-![](Ratchakitcha.png)
+![](Pic_README/Ratchakitcha.png)
 
 เขตการเลือกตั้งอ้างอิงจากราชกิจจานุเบกษา (อ้างอิง: [ประกาศคณะกรรมการการเลือกตั้ง จำนวนสมาชิกสภาผู้แทนราษฎรแบบแบ่งเขตเลือกตั้งที่แต่ละจังหวัดจะพึงมี และจำนวนเขตเลือกตั้งแบบแบ่งเขตเลือกตั้งของแต่ละจังหวัด (soc.go.th)](https://ratchakitcha.soc.go.th/documents/140A023N0000000000500.pdf))
 
@@ -66,9 +70,11 @@
 
 ### เบื้องหลัง Algorithm ที่ไว้ใช้สร้างแผนที่ตามประกาศ กกต. กำหนด
 
+![](Pic_README/Overall.png)
+
 แผนที่ที่ใช้มีดังต่อไปนี้
 
-![](Maps_for_construction.png)
+![](Pic_README/Maps_for_construction.png)
 
 - แผนที่ระดับตำบลในประเทศไทย (GISTDA: [L05_Tambon_GISTDA_50k - Overview](https://gistdaportal.gistda.or.th/portal/home/item.html?id=635097fec40c4b72ad2d1a534071fffb), แผนที่อ้างอิงจากกรมแผนที่ทหาร: [Thailand - Subnational Administrative Boundaries - Humanitarian Data Exchange (humdata.org)](https://data.humdata.org/dataset/cod-ab-tha))
 - แผนที่เทศบาลในประเทศไทย
@@ -80,14 +86,14 @@
 - QGIS: PyQGIS, Saga-GIS, Vector Layer Management
 - Mapshaper [mbloch/mapshaper: Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files (github.com)](https://github.com/mbloch/mapshaper)
 
-![](Table_manipulation.png)
+![](Pic_README/Table_manipulation.png)
 
-![](split_regions_example.png)
+![](Pic_README/split_regions_example.png)
 
-![](Inclusion.png)
+![](Pic_README/Inclusion.png)
 
-![](Exclusion.png)
+![](Pic_README/Exclusion.png)
 
-![](Split_regions.png)
+![](Pic_README/Split_regions.png)
 
 นอกจากนี้จะมีขั้นตอนในการแยกจังหวัด (โดยใช้ QGIS) และบันทึกข้อมูลเป็น .svg (โดย MapShaper) เพื่อสะดวกในการพัฒนาเว็บผลการเลือกตั้ง
