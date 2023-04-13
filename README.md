@@ -70,7 +70,7 @@
 
 ### เบื้องหลัง Algorithm ที่ไว้ใช้สร้างแผนที่ตามประกาศ กกต. กำหนด
 
-![](Pic_README/Overall.png)
+![](Pic_README/Overall_algo.png)
 
 แผนที่ที่ใช้มีดังต่อไปนี้
 
