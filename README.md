@@ -68,7 +68,7 @@
 
 แผนที่ที่ใช้มีดังต่อไปนี้
 
-![](Maps for construction.png)
+![](Maps_for_construction.png)
 
 - แผนที่ระดับตำบลในประเทศไทย (GISTDA: [L05_Tambon_GISTDA_50k - Overview](https://gistdaportal.gistda.or.th/portal/home/item.html?id=635097fec40c4b72ad2d1a534071fffb), แผนที่อ้างอิงจากกรมแผนที่ทหาร: [Thailand - Subnational Administrative Boundaries - Humanitarian Data Exchange (humdata.org)](https://data.humdata.org/dataset/cod-ab-tha))
 - แผนที่เทศบาลในประเทศไทย
@@ -80,14 +80,14 @@
 - QGIS: PyQGIS, Saga-GIS, Vector Layer Management
 - Mapshaper [mbloch/mapshaper: Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files (github.com)](https://github.com/mbloch/mapshaper)
 
-![](Table manipulation.png)
+![](Table_manipulation.png)
 
-![](split regions example.png)
+![](split_regions_example.png)
 
 ![](Inclusion.png)
 
 ![](Exclusion.png)
 
-![](Split regions.png)
+![](Split_regions.png)
 
 นอกจากนี้จะมีขั้นตอนในการแยกจังหวัด (โดยใช้ QGIS) และบันทึกข้อมูลเป็น .svg (โดย MapShaper) เพื่อสะดวกในการพัฒนาเว็บผลการเลือกตั้ง
