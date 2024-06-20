@@ -4,7 +4,16 @@
 
 สถาบันส่งเสริมการวิเคราะห์และบริหารข้อมูลขนาดใหญ่ภาครัฐ (GBDi)
 
+ปัจจุบันเป็น [สถาบันข้อมูลขนาดใหญ่ (องค์การมหาชน)](https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88_(%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%8A%E0%B8%99))
+
 วันมหาสงกรานต์ พ.ศ. 2566
+
+---
+
+Recognition
+
+- Hicken A., Jatusripitak N. (2023) "Introduction: Making Sense of Thailand's Seismic Elections", _Contemporary Southeast Asia_, 45 (3), pp. 335-413.
+- Hicken A., Jatusripitak N., Lohatepanont M. (2023) "A New Tale of Two Democracies? The Changing Urban-Rural Dynamics at Thailand's 2023 General Elections", JSTOR: 27278473.
 
 ---
 
